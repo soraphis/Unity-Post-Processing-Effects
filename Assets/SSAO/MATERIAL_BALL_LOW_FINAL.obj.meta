@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: d4f775023cbf6644fa64bd06e5f3fc04
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: lowagain:bottomlow
+    100002: lowagain:connection_low
+    100004: lowagain:connectlow
+    100006: lowagain:Disk_low
+    100008: lowagain:Pedestal_low
+    100010: lowagain:Ringlow1
+    100012: lowagain:Spherelow
+    100014: lowagain:tronclow
+    100016: //RootNode
+    400000: lowagain:bottomlow
+    400002: lowagain:connection_low
+    400004: lowagain:connectlow
+    400006: lowagain:Disk_low
+    400008: lowagain:Pedestal_low
+    400010: lowagain:Ringlow1
+    400012: lowagain:Spherelow
+    400014: lowagain:tronclow
+    400016: //RootNode
+    2100000: lowagain_bottomlowMat
+    2100002: lowagain_connection_lowMat
+    2100004: lowagain_connectlowMat
+    2100006: lowagain_Disk_lowMat
+    2100008: lowagain_Pedestal_lowMat
+    2100010: lowagain_Ringlow1Mat
+    2100012: lowagain_SpherelowMat
+    2100014: lowagain_tronclowMat
+    2300000: lowagain:bottomlow
+    2300002: lowagain:connection_low
+    2300004: lowagain:connectlow
+    2300006: lowagain:Disk_low
+    2300008: lowagain:Pedestal_low
+    2300010: lowagain:Ringlow1
+    2300012: lowagain:Spherelow
+    2300014: lowagain:tronclow
+    3300000: lowagain:bottomlow
+    3300002: lowagain:connection_low
+    3300004: lowagain:connectlow
+    3300006: lowagain:Disk_low
+    3300008: lowagain:Pedestal_low
+    3300010: lowagain:Ringlow1
+    3300012: lowagain:Spherelow
+    3300014: lowagain:tronclow
+    4300000: lowagain:bottomlow
+    4300002: lowagain:connection_low
+    4300004: lowagain:connectlow
+    4300006: lowagain:Disk_low
+    4300008: lowagain:Pedestal_low
+    4300010: lowagain:Ringlow1
+    4300012: lowagain:Spherelow
+    4300014: lowagain:tronclow
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
